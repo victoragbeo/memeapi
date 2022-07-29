@@ -1,2 +1,2 @@
 # memeapi
-Generaterandom memes
+Generate random memes
